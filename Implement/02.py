@@ -41,3 +41,4 @@ print("book solution: {}".format(result2))
 
 
 # 책 풀이도 좋긴한데 steps 다 쓰는게 귀찮다. 내 풀이가 나은듯
+# 딱히 시간 차이도 많이 안 날 것 같음
